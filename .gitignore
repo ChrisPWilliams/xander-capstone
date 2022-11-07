@@ -1,2 +1,3 @@
 *.csv
 /data/*
+db_login.json

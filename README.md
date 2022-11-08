@@ -13,7 +13,9 @@ ACME Corporation sells a number of products. As a part of their product expansio
 ## Repository Structure:
 
 Sourcing and cleaning of sample data can be found in Data_cleaning.ipynb
+
 Sourcing and cleaning of CPA research data can be found in CPA_scraper.ipynb
+
 Data visualisation and analysis can be found in data_visualisation.ipynb
 
 SQL queries used for analysis can be found in the queries directory
